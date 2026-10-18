@@ -1,0 +1,9 @@
+indicator,form,term,coef,t (HAC),p,R2,n
+new_orders,level,const,0.3277,0.71,0.4787,0.1644,177
+new_orders,level,new_orders_level_lag1,1.4433,3.9,0.0001,0.1644,177
+new_orders,level,new_orders_level_lag2,0.4742,0.84,0.3982,0.1644,177
+new_orders,level,new_orders_level_lag3,-0.4529,-1.0,0.3159,0.1644,177
+pmi,level,const,0.1703,0.33,0.7414,0.1278,177
+pmi,level,pmi_level_lag1,1.6653,3.98,0.0001,0.1278,177
+pmi,level,pmi_level_lag2,-0.0606,-0.11,0.9105,0.1278,177
+pmi,level,pmi_level_lag3,0.1771,0.33,0.7392,0.1278,177

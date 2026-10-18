@@ -1,0 +1,11 @@
+indicator,form,corr_lead,granger_p,n
+new_orders,level,0.396,0.0,179
+pmi,level,0.354,0.0,179
+production,level,0.292,0.0002,179
+pmi,change,0.148,0.0476,178
+new_orders,change,0.107,0.156,178
+production,change,0.098,0.12,178
+raw_material_inventories,change,0.038,0.6538,178
+new_export_orders,change,-0.042,0.5069,178
+new_export_orders,level,-0.098,0.1742,179
+raw_material_inventories,level,-0.098,0.2303,179
