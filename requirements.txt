@@ -4,3 +4,5 @@ scipy>=1.11
 statsmodels>=0.14
 matplotlib>=3.8
 tabulate>=0.9
+akshare>=1.14   # optional: --fetch
+yfinance>=0.2.40 # optional: --fetch
